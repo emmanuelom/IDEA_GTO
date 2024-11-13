@@ -1,22 +1,22 @@
 {
     "Breaking News 1": {
         "url": "https://example.com/news1",
-        "image": "https://file-examples.com/storage/fe708a67866723bda94c48b/2017/10/file_example_PNG_500kB.png"
+        "image": "https://picsum.photos/200"
     },
     "Breaking News 2": {
         "url": "https://example.com/news2",
-        "image": "https://file-examples.com/storage/fe708a67866723bda94c48b/2017/10/file_example_PNG_500kB.png"
+        "image": "https://picsum.photos/200"
     },
     "Breaking News 3": {
         "url": "https://example.com/news3",
-        "image": "https://file-examples.com/storage/fe708a67866723bda94c48b/2017/10/file_example_PNG_500kB.png"
+        "image": "https://picsum.photos/200"
     },
     "Breaking News 4": {
         "url": "https://example.com/news4",
-        "image": "https://file-examples.com/storage/fe708a67866723bda94c48b/2017/10/file_example_PNG_500kB.png"
+        "image": "https://picsum.photos/200"
     },
     "Breaking News 5": {
         "url": "https://example.com/news5",
-        "image": "https://file-examples.com/storage/fe708a67866723bda94c48b/2017/10/file_example_PNG_500kB.png"
+        "image": "https://picsum.photos/200"
     }
 }
