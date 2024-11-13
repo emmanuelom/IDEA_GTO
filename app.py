@@ -25,8 +25,6 @@ pages = list(functions.keys())[1:] # remove default 'Home'
 with open('.streamlit/navbar_styles.json') as f:
     styles = json.load(f)
 
-
-
 options = {
     "show_menu": False,
     "show_sidebar": False,
