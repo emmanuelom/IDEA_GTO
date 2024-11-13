@@ -1,0 +1,18 @@
+{
+    "Agroindustria News 1": {
+        "url": "https://example.com/news1",
+        "image": "https://file-examples.com/storage/fe708a67866723bda94c48b/2017/10/file_example_PNG_500kB.png"
+    },
+    "Agroindustria News 2": {
+        "url": "https://example.com/news2",
+        "image": "https://file-examples.com/storage/fe708a67866723bda94c48b/2017/10/file_example_PNG_500kB.png"
+    },
+    "Agroindustria News 3": {
+        "url": "https://example.com/news3",
+        "image": "https://file-examples.com/storage/fe708a67866723bda94c48b/2017/10/file_example_PNG_500kB.png"
+    },
+    "Agroindustria News 4": {
+        "url": "https://example.com/news4",
+        "image": "https://file-examples.com/storage/fe708a67866723bda94c48b/2017/10/file_example_PNG_500kB.png"
+    }
+}
