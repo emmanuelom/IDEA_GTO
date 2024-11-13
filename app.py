@@ -26,7 +26,7 @@ with open('.streamlit/navbar_styles.json') as f:
     styles = json.load(f)
 
 options = {
-    "show_menu": False,
+    "show_menu": True,
     "show_sidebar": False,
 }
 
