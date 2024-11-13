@@ -22,34 +22,13 @@ functions = {
 pages = list(functions.keys())[1:] # remove default 'Home'
 
 # Load styles from the JSON file
-#with open('.streamlit/navbar_styles.json') as f:
-#    styles = json.load(f)
+with open('.streamlit/navbar_styles.json') as f:
+    styles = json.load(f)
 
-styles = {
-    "nav": {
-        "background_color": "white",
-        "height": "60px",
-        "justify-content": "left"
-    },
-    "img": {
-        "width": "180px",
-        "height": "auto",
-        "padding_right": "14px"
-    },
-    "span": {
-        "color": "var(--text-color)",
-        "padding": "14px"
-    },
-    "active": {
-        "background_color": "#E4ECFA",
-        "color": "var(--text-color)",
-        "font_weight": "normal",
-        "padding": "14px"
-    }
-}
+
 
 options = {
-    "show_menu": True,
+    "show_menu": False,
     "show_sidebar": False,
 }
 
