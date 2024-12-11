@@ -1,14 +1,14 @@
 {
-    "Moda News 1": {
+    "Energía y Agua News 1": {
         "url": "https://example.com/news1",
         "image": "https://picsum.photos/200"    },
-    "Moda News 2": {
+    "Energía y Agua News 2": {
         "url": "https://example.com/news2",
         "image": "https://picsum.photos/200"    },
-    "Moda News 3": {
+    "Energía y Agua News 3": {
         "url": "https://example.com/news3",
         "image": "https://picsum.photos/200"    },
-    "Moda News 4": {
+    "Energía y Agua News 4": {
         "url": "https://example.com/news4",
         "image": "https://picsum.photos/200"    }
 }
