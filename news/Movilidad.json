@@ -1,0 +1,14 @@
+{
+    "Movilidad News 1": {
+        "url": "https://example.com/news1",
+        "image": "https://picsum.photos/200"    },
+    "Movilidad News 2": {
+        "url": "https://example.com/news2",
+        "image": "https://picsum.photos/200"    },
+    "Movilidad News 3": {
+        "url": "https://example.com/news3",
+        "image": "https://picsum.photos/200"    },
+    "Movilidad News 4": {
+        "url": "https://example.com/news4",
+        "image": "https://picsum.photos/200"    }
+}
