@@ -1,0 +1,262 @@
+{
+  "nodes": [
+    {
+      "name": "SBS",
+      "category": 0,
+      "symbolSize": 50
+    },
+    {
+      "name": "Educaci\u00f3n en Deportes Electr\u00f3nicos.",
+      "category": 1,
+      "symbolSize": 30
+    },
+    {
+      "name": "Torneos de deportes electr\u00f3nicos de HBCU.",
+      "category": 1,
+      "symbolSize": 20
+    },
+    {
+      "name": "Programas de gesti\u00f3n de deportes electr\u00f3nicos.",
+      "category": 1,
+      "symbolSize": 20
+    },
+    {
+      "name": "Ligas de deportes electr\u00f3nicos centradas en los estudiantes.",
+      "category": 1,
+      "symbolSize": 20
+    },
+    {
+      "name": "Ligas de deportes electr\u00f3nicos para estudiantes daneses.",
+      "category": 1,
+      "symbolSize": 20
+    },
+    {
+      "name": "Paneles educativos sobre deportes electr\u00f3nicos.",
+      "category": 1,
+      "symbolSize": 20
+    },
+    {
+      "name": "Educaci\u00f3n Metaverse.",
+      "category": 2,
+      "symbolSize": 30
+    },
+    {
+      "name": "Programas de educaci\u00f3n de moda de Metaverse.",
+      "category": 2,
+      "symbolSize": 20
+    },
+    {
+      "name": "Programas educativos impulsados por blockchain.",
+      "category": 2,
+      "symbolSize": 20
+    },
+    {
+      "name": "Metaversos orientados a la educaci\u00f3n.",
+      "category": 2,
+      "symbolSize": 20
+    },
+    {
+      "name": "Las plataformas educativas B2B Web3.",
+      "category": 2,
+      "symbolSize": 20
+    },
+    {
+      "name": "Metaversos de deportes electr\u00f3nicos educativos.",
+      "category": 2,
+      "symbolSize": 20
+    },
+    {
+      "name": "Educaci\u00f3n con IA.",
+      "category": 3,
+      "symbolSize": 30
+    },
+    {
+      "name": "Aplicaciones educativas premium impulsadas por IA.",
+      "category": 3,
+      "symbolSize": 20
+    },
+    {
+      "name": "Funciones de aprendizaje impulsadas por IA.",
+      "category": 3,
+      "symbolSize": 20
+    },
+    {
+      "name": "Turnitin Originality.",
+      "category": 3,
+      "symbolSize": 20
+    },
+    {
+      "name": "Detectores de texto con inteligencia artificial.",
+      "category": 3,
+      "symbolSize": 20
+    },
+    {
+      "name": "Marcos de uso de la inteligencia artificial en el lugar de trabajo.",
+      "category": 3,
+      "symbolSize": 20
+    },
+    {
+      "name": "Servicios de redacci\u00f3n de indicaciones con inteligencia artificial.",
+      "category": 3,
+      "symbolSize": 20
+    },
+    {
+      "name": "Generadores de indicaciones basados en preguntas.",
+      "category": 3,
+      "symbolSize": 20
+    },
+    {
+      "name": "Sugerencias de palabras clave generadas por IA.",
+      "category": 3,
+      "symbolSize": 20
+    },
+    {
+      "name": "Herramientas de edici\u00f3n con IA para principiantes.",
+      "category": 3,
+      "symbolSize": 20
+    },
+    {
+      "name": "Plataforma de Idiomas",
+      "category": 4,
+      "symbolSize": 30
+    },
+    {
+      "name": "Plataformas de aprendizaje de idiomas impulsadas por IA.",
+      "category": 4,
+      "symbolSize": 20
+    },
+    {
+      "name": "Aplicaciones de idiomas impulsadas por IA.",
+      "category": 4,
+      "symbolSize": 20
+    },
+    {
+      "name": "Aplicaciones de educaci\u00f3n de idiomas personalizadas.",
+      "category": 4,
+      "symbolSize": 20
+    }
+  ],
+  "links": [
+    {
+      "source": "Educaci\u00f3n en Deportes Electr\u00f3nicos.",
+      "target": "Torneos de deportes electr\u00f3nicos de HBCU."
+    },
+    {
+      "source": "Educaci\u00f3n en Deportes Electr\u00f3nicos.",
+      "target": "Programas de gesti\u00f3n de deportes electr\u00f3nicos."
+    },
+    {
+      "source": "Educaci\u00f3n en Deportes Electr\u00f3nicos.",
+      "target": "Ligas de deportes electr\u00f3nicos centradas en los estudiantes."
+    },
+    {
+      "source": "Educaci\u00f3n en Deportes Electr\u00f3nicos.",
+      "target": "Ligas de deportes electr\u00f3nicos para estudiantes daneses."
+    },
+    {
+      "source": "Educaci\u00f3n en Deportes Electr\u00f3nicos.",
+      "target": "Paneles educativos sobre deportes electr\u00f3nicos."
+    },
+    {
+      "source": "Educaci\u00f3n Metaverse.",
+      "target": "Programas de educaci\u00f3n de moda de Metaverse."
+    },
+    {
+      "source": "Educaci\u00f3n Metaverse.",
+      "target": "Programas educativos impulsados por blockchain."
+    },
+    {
+      "source": "Educaci\u00f3n Metaverse.",
+      "target": "Metaversos orientados a la educaci\u00f3n."
+    },
+    {
+      "source": "Educaci\u00f3n Metaverse.",
+      "target": "Las plataformas educativas B2B Web3."
+    },
+    {
+      "source": "Educaci\u00f3n Metaverse.",
+      "target": "Metaversos de deportes electr\u00f3nicos educativos."
+    },
+    {
+      "source": "Educaci\u00f3n con IA.",
+      "target": "Aplicaciones educativas premium impulsadas por IA."
+    },
+    {
+      "source": "Educaci\u00f3n con IA.",
+      "target": "Funciones de aprendizaje impulsadas por IA."
+    },
+    {
+      "source": "Educaci\u00f3n con IA.",
+      "target": "Turnitin Originality."
+    },
+    {
+      "source": "Educaci\u00f3n con IA.",
+      "target": "Detectores de texto con inteligencia artificial."
+    },
+    {
+      "source": "Educaci\u00f3n con IA.",
+      "target": "Marcos de uso de la inteligencia artificial en el lugar de trabajo."
+    },
+    {
+      "source": "Educaci\u00f3n con IA.",
+      "target": "Servicios de redacci\u00f3n de indicaciones con inteligencia artificial."
+    },
+    {
+      "source": "Educaci\u00f3n con IA.",
+      "target": "Generadores de indicaciones basados en preguntas."
+    },
+    {
+      "source": "Educaci\u00f3n con IA.",
+      "target": "Sugerencias de palabras clave generadas por IA."
+    },
+    {
+      "source": "Educaci\u00f3n con IA.",
+      "target": "Herramientas de edici\u00f3n con IA para principiantes."
+    },
+    {
+      "source": "Plataforma de Idiomas",
+      "target": "Plataformas de aprendizaje de idiomas impulsadas por IA."
+    },
+    {
+      "source": "Plataforma de Idiomas",
+      "target": "Aplicaciones de idiomas impulsadas por IA."
+    },
+    {
+      "source": "Plataforma de Idiomas",
+      "target": "Aplicaciones de educaci\u00f3n de idiomas personalizadas."
+    },
+    {
+      "source": "SBS",
+      "target": "Educaci\u00f3n en Deportes Electr\u00f3nicos."
+    },
+    {
+      "source": "SBS",
+      "target": "Educaci\u00f3n Metaverse."
+    },
+    {
+      "source": "SBS",
+      "target": "Educaci\u00f3n con IA."
+    },
+    {
+      "source": "SBS",
+      "target": "Plataforma de Idiomas"
+    }
+  ],
+  "categories": [
+    {
+      "name": "SBS"
+    },
+    {
+      "name": "Educaci\u00f3n en Deportes Electr\u00f3nicos."
+    },
+    {
+      "name": "Educaci\u00f3n Metaverse."
+    },
+    {
+      "name": "Educaci\u00f3n con IA."
+    },
+    {
+      "name": "Plataforma de Idiomas"
+    }
+  ]
+}

@@ -1,0 +1,274 @@
+{
+  "nodes": [
+    {
+      "name": "Productos Quimicos",
+      "category": 0,
+      "symbolSize": 50
+    },
+    {
+      "name": "Cuidado de la Piel.",
+      "category": 1,
+      "symbolSize": 30
+    },
+    {
+      "name": "T\u00f3nicos antioxidantes multitarea.",
+      "category": 1,
+      "symbolSize": 20
+    },
+    {
+      "name": "Sueros todo en uno para el cuidado de la piel.",
+      "category": 1,
+      "symbolSize": 20
+    },
+    {
+      "name": "Protectores solares hidratantes con jugo de abedul.",
+      "category": 1,
+      "symbolSize": 20
+    },
+    {
+      "name": "Sueros de retinol de acci\u00f3n r\u00e1pida.",
+      "category": 1,
+      "symbolSize": 20
+    },
+    {
+      "name": "Protectores solares humectantes con jugo de abedul.",
+      "category": 1,
+      "symbolSize": 20
+    },
+    {
+      "name": "Desinfectante ecol\u00f3gico.",
+      "category": 2,
+      "symbolSize": 30
+    },
+    {
+      "name": "Productos de limpieza ecol\u00f3gicos.",
+      "category": 2,
+      "symbolSize": 20
+    },
+    {
+      "name": "Toallitas multiusos desechables.",
+      "category": 2,
+      "symbolSize": 20
+    },
+    {
+      "name": "Toallitas de limpieza biodegradables.",
+      "category": 2,
+      "symbolSize": 20
+    },
+    {
+      "name": "Productos de limpieza envasados de forma sostenible.",
+      "category": 2,
+      "symbolSize": 20
+    },
+    {
+      "name": "L\u00edneas de desinfectantes sostenibles.",
+      "category": 2,
+      "symbolSize": 20
+    },
+    {
+      "name": "La belleza de la biolog\u00eda sint\u00e9tica.",
+      "category": 3,
+      "symbolSize": 30
+    },
+    {
+      "name": "Cremas antienvejecimiento coreanas.",
+      "category": 3,
+      "symbolSize": 20
+    },
+    {
+      "name": "Curl Brands 4U by Tia.",
+      "category": 3,
+      "symbolSize": 20
+    },
+    {
+      "name": "Los tratamientos biotecnol\u00f3gicos transformativos.",
+      "category": 3,
+      "symbolSize": 20
+    },
+    {
+      "name": "La leche biol\u00f3gica vegana.",
+      "category": 3,
+      "symbolSize": 20
+    },
+    {
+      "name": "Piedra Desodorante.",
+      "category": 4,
+      "symbolSize": 30
+    },
+    {
+      "name": "Piedras desodorantes del Himalaya.",
+      "category": 4,
+      "symbolSize": 20
+    },
+    {
+      "name": "Barras desodorantes minerales.",
+      "category": 4,
+      "symbolSize": 20
+    },
+    {
+      "name": "Piedras desodorantes naturales reutilizables.",
+      "category": 4,
+      "symbolSize": 20
+    },
+    {
+      "name": "Desodorantes de cristal mineral.",
+      "category": 4,
+      "symbolSize": 20
+    },
+    {
+      "name": "Suplemento Energizante.",
+      "category": 5,
+      "symbolSize": 30
+    },
+    {
+      "name": "Obleas nutrac\u00e9uticas funcionales.",
+      "category": 5,
+      "symbolSize": 20
+    },
+    {
+      "name": "El suero y la crema hidratante Cellular Repair Skincare.",
+      "category": 5,
+      "symbolSize": 20
+    },
+    {
+      "name": "Bebidas energizantes y vitales.",
+      "category": 5,
+      "symbolSize": 20
+    },
+    {
+      "name": "Nuevos suplementos nutricionales celulares de Solgar que favorecen la energ\u00eda celular y la salud mitocondrial",
+      "category": 5,
+      "symbolSize": 20
+    }
+  ],
+  "links": [
+    {
+      "source": "Cuidado de la Piel.",
+      "target": "T\u00f3nicos antioxidantes multitarea."
+    },
+    {
+      "source": "Cuidado de la Piel.",
+      "target": "Sueros todo en uno para el cuidado de la piel."
+    },
+    {
+      "source": "Cuidado de la Piel.",
+      "target": "Protectores solares hidratantes con jugo de abedul."
+    },
+    {
+      "source": "Cuidado de la Piel.",
+      "target": "Sueros de retinol de acci\u00f3n r\u00e1pida."
+    },
+    {
+      "source": "Cuidado de la Piel.",
+      "target": "Protectores solares humectantes con jugo de abedul."
+    },
+    {
+      "source": "Desinfectante ecol\u00f3gico.",
+      "target": "Productos de limpieza ecol\u00f3gicos."
+    },
+    {
+      "source": "Desinfectante ecol\u00f3gico.",
+      "target": "Toallitas multiusos desechables."
+    },
+    {
+      "source": "Desinfectante ecol\u00f3gico.",
+      "target": "Toallitas de limpieza biodegradables."
+    },
+    {
+      "source": "Desinfectante ecol\u00f3gico.",
+      "target": "Productos de limpieza envasados de forma sostenible."
+    },
+    {
+      "source": "Desinfectante ecol\u00f3gico.",
+      "target": "L\u00edneas de desinfectantes sostenibles."
+    },
+    {
+      "source": "La belleza de la biolog\u00eda sint\u00e9tica.",
+      "target": "Cremas antienvejecimiento coreanas."
+    },
+    {
+      "source": "La belleza de la biolog\u00eda sint\u00e9tica.",
+      "target": "Curl Brands 4U by Tia."
+    },
+    {
+      "source": "La belleza de la biolog\u00eda sint\u00e9tica.",
+      "target": "Los tratamientos biotecnol\u00f3gicos transformativos."
+    },
+    {
+      "source": "La belleza de la biolog\u00eda sint\u00e9tica.",
+      "target": "La leche biol\u00f3gica vegana."
+    },
+    {
+      "source": "Piedra Desodorante.",
+      "target": "Piedras desodorantes del Himalaya."
+    },
+    {
+      "source": "Piedra Desodorante.",
+      "target": "Barras desodorantes minerales."
+    },
+    {
+      "source": "Piedra Desodorante.",
+      "target": "Piedras desodorantes naturales reutilizables."
+    },
+    {
+      "source": "Piedra Desodorante.",
+      "target": "Desodorantes de cristal mineral."
+    },
+    {
+      "source": "Suplemento Energizante.",
+      "target": "Obleas nutrac\u00e9uticas funcionales."
+    },
+    {
+      "source": "Suplemento Energizante.",
+      "target": "El suero y la crema hidratante Cellular Repair Skincare."
+    },
+    {
+      "source": "Suplemento Energizante.",
+      "target": "Bebidas energizantes y vitales."
+    },
+    {
+      "source": "Suplemento Energizante.",
+      "target": "Nuevos suplementos nutricionales celulares de Solgar que favorecen la energ\u00eda celular y la salud mitocondrial"
+    },
+    {
+      "source": "Productos Quimicos",
+      "target": "Cuidado de la Piel."
+    },
+    {
+      "source": "Productos Quimicos",
+      "target": "Desinfectante ecol\u00f3gico."
+    },
+    {
+      "source": "Productos Quimicos",
+      "target": "La belleza de la biolog\u00eda sint\u00e9tica."
+    },
+    {
+      "source": "Productos Quimicos",
+      "target": "Piedra Desodorante."
+    },
+    {
+      "source": "Productos Quimicos",
+      "target": "Suplemento Energizante."
+    }
+  ],
+  "categories": [
+    {
+      "name": "Productos Quimicos"
+    },
+    {
+      "name": "Cuidado de la Piel."
+    },
+    {
+      "name": "Desinfectante ecol\u00f3gico."
+    },
+    {
+      "name": "La belleza de la biolog\u00eda sint\u00e9tica."
+    },
+    {
+      "name": "Piedra Desodorante."
+    },
+    {
+      "name": "Suplemento Energizante."
+    }
+  ]
+}

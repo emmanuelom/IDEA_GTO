@@ -1,12 +1,12 @@
 {
     "Agroindustrial": "Agroindustria.json", 
     "Moda" : "Moda.json",
-    "Ciencias de la vida" : "",
+    "Ciencias de la vida" : "Salud.json",
     "Movilidad" : "",
-    "Turismo" : "",
-    "Fabricación Automotores" : "",
-    "Productos Químicos" : "",
-    "Servicios basados en conocimientos" : "",
-    "Energia y Agua" : "",
+    "Turismo" : "Turismo.json",
+    "Fabricación Automotores" : "Automotor.json",
+    "Productos Químicos" : "Productos_quimicos.json",
+    "Servicios basados en conocimientos" : "SBS.json",
+    "Energia y Agua" : "Energia_y_agua.json",
     "Gobierno" : ""
 }
