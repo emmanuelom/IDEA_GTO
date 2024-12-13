@@ -1,0 +1,256 @@
+{
+  "nodes": [
+    {
+      "name": "Gobierno",
+      "category": 0,
+      "symbolSize": 50
+    },
+    {
+      "name": "Baños accesibles",
+      "category": 1,
+      "symbolSize": 30
+    },
+    {
+      "name": "Sanitarios inspirados en cabañas japonesas",
+      "category": 1,
+      "symbolSize": 20
+    },
+    {
+      "name": "Urinarios sostenibles rellenos de cáñamo",
+      "category": 1,
+      "symbolSize": 20
+    },
+    {
+      "name": "Baños públicos transparentes",
+      "category": 1,
+      "symbolSize": 20
+    },
+    {
+      "name": "Movimiento de los millenials",
+      "category": 2,
+      "symbolSize": 30
+    },
+    {
+      "name": "Los trabajadores remotos se quedan",
+      "category": 2,
+      "symbolSize": 20
+    },
+    {
+      "name": "Bicicletas eléctricas con cuadro de acceso fácil",
+      "category": 2,
+      "symbolSize": 20
+    },
+    {
+      "name": "Hospitalidad en invernadero",
+      "category": 3,
+      "symbolSize": 30
+    },
+    {
+      "name": "Quioscos públicos con vegetación",
+      "category": 3,
+      "symbolSize": 20
+    },
+    {
+      "name": "Hoteles para el cuidado de plantas",
+      "category": 3,
+      "symbolSize": 20
+    },
+    {
+      "name": "Hoteles veganos de lujo y éticos",
+      "category": 3,
+      "symbolSize": 20
+    },
+    {
+      "name": "Restaurantes con exposición de muebles",
+      "category": 3,
+      "symbolSize": 20
+    },
+    {
+      "name": "Cafeterías de vidrio con plantas",
+      "category": 3,
+      "symbolSize": 20
+    },
+    {
+      "name": "Arquitectura modular",
+      "category": 4,
+      "symbolSize": 30
+    },
+    {
+      "name": "Casas modulares expandibles",
+      "category": 4,
+      "symbolSize": 20
+    },
+    {
+      "name": "Conceptos de comunidad rural-urbana",
+      "category": 4,
+      "symbolSize": 20
+    },
+    {
+      "name": "Estructuras modulares de madera para interiores",
+      "category": 4,
+      "symbolSize": 20
+    },
+    {
+      "name": "Planes de vivienda prefabricadas para personas sin hogar",
+      "category": 4,
+      "symbolSize": 20
+    },
+    {
+      "name": "Edificios modulares de estilo Bauhaus",
+      "category": 4,
+      "symbolSize": 20
+    },
+    {
+      "name": "Conceptos de hoteles modulares con conciencia ecológica",
+      "category": 4,
+      "symbolSize": 20
+    },
+    {
+      "name": "Eliminación gamificada de residuos",
+      "category": 5,
+      "symbolSize": 30
+    },
+    {
+      "name": "Programas de reciclaje gamificados",
+      "category": 5,
+      "symbolSize": 20
+    },
+    {
+      "name": "Contenedores de basura interactivos",
+      "category": 5,
+      "symbolSize": 20
+    },
+    {
+      "name": "Basurero gamificado",
+      "category": 5,
+      "symbolSize": 20
+    },
+    {
+      "name": "Máquinas de reciclaje incentivadas",
+      "category": 5,
+      "symbolSize": 20
+    }
+  ],
+  "links": [
+    {
+      "source": "Baños accesibles",
+      "target": "Sanitarios inspirados en cabañas japonesas"
+    },
+    {
+      "source": "Baños accesibles",
+      "target": "Urinarios sostenibles rellenos de cáñamo"
+    },
+    {
+      "source": "Baños accesibles",
+      "target": "Baños públicos transparentes"
+    },
+    {
+      "source": "Movimiento de los millenials",
+      "target": "Los trabajadores remotos se quedan"
+    },
+    {
+      "source": "Movimiento de los millenials",
+      "target": "Bicicletas eléctricas con cuadro de acceso fácil"
+    },
+    {
+      "source": "Hospitalidad en invernadero",
+      "target": "Quioscos públicos con vegetación"
+    },
+    {
+      "source": "Hospitalidad en invernadero",
+      "target": "Hoteles para el cuidado de plantas"
+    },
+    {
+      "source": "Hospitalidad en invernadero",
+      "target": "Hoteles veganos de lujo y éticos"
+    },
+    {
+      "source": "Hospitalidad en invernadero",
+      "target": "Restaurantes con exposición de muebles"
+    },
+    {
+      "source": "Hospitalidad en invernadero",
+      "target": "Cafeterías de vidrio con plantas"
+    },
+    {
+      "source": "Arquitectura modular",
+      "target": "Casas modulares expandibles"
+    },
+    {
+      "source": "Arquitectura modular",
+      "target": "Conceptos de comunidad rural-urbana"
+    },
+    {
+      "source": "Arquitectura modular",
+      "target": "Estructuras modulares de madera para interiores"
+    },
+    {
+      "source": "Arquitectura modular",
+      "target": "Planes de vivienda prefabricadas para personas sin hogar"
+    },
+    {
+      "source": "Arquitectura modular",
+      "target": "Edificios modulares de estilo Bauhaus"
+    },
+    {
+      "source": "Arquitectura modular",
+      "target": "Conceptos de hoteles modulares con conciencia ecológica"
+    },
+    {
+      "source": "Eliminación gamificada de residuos",
+      "target": "Programas de reciclaje gamificados"
+    },
+    {
+      "source": "Eliminación gamificada de residuos",
+      "target": "Contenedores de basura interactivos"
+    },
+    {
+      "source": "Eliminación gamificada de residuos",
+      "target": "Basurero gamificado"
+    },
+    {
+      "source": "Eliminación gamificada de residuos",
+      "target": "Máquinas de reciclaje incentivadas"
+    },
+    {
+      "source": "Gobierno",
+      "target": "Baños accesibles"
+    },
+    {
+      "source": "Gobierno",
+      "target": "Movimiento de los millenials"
+    },
+    {
+      "source": "Gobierno",
+      "target": "Hospitalidad en invernadero"
+    },
+    {
+      "source": "Gobierno",
+      "target": "Arquitectura modular"
+    },
+    {
+      "source": "Gobierno",
+      "target": "Eliminación gamificada de residuos"
+    }
+  ],
+  "categories": [
+    {
+      "name": "Gobierno"
+    },
+    {
+      "name": "Baños accesibles"
+    },
+    {
+      "name": "Movimiento de los millenials"
+    },
+    {
+      "name": "Hospitalidad en invernadero"
+    },
+    {
+      "name": "Arquitectura modular"
+    },
+    {
+      "name": "Eliminación gamificada de residuos"
+    }
+  ]
+}

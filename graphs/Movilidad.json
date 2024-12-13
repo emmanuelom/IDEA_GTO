@@ -1,0 +1,265 @@
+{
+  "nodes": [
+    {
+      "name": "Movilidad",
+      "category": 0,
+      "symbolSize": 50
+    },
+    {
+      "name": "Smart supply chain",
+      "category": 1,
+      "symbolSize": 30
+    },
+    {
+      "name": "Cold chain is hot",
+      "category": 1,
+      "symbolSize": 20
+    },
+    {
+      "name": "Cadenas de suministro eficientes para fabricantes de automóviles",
+      "category": 1,
+      "symbolSize": 20
+    },
+    {
+      "name": "Regionalización/nearshoring",
+      "category": 2,
+      "symbolSize": 30
+    },
+    {
+      "name": "Vehículos impulsados por la comunidad",
+      "category": 2,
+      "symbolSize": 20
+    },
+    {
+      "name": "Re-skilling/reentrenamiento permanente",
+      "category": 3,
+      "symbolSize": 30
+    },
+    {
+      "name": "Boutique metaversas automotrices",
+      "category": 3,
+      "symbolSize": 20
+    },
+    {
+      "name": "Evolución hacia transporte combinado",
+      "category": 4,
+      "symbolSize": 30
+    },
+    {
+      "name": "Bicicletas eléctricas impulsadas por hidrógeno",
+      "category": 4,
+      "symbolSize": 20
+    },
+    {
+      "name": "Bicicletas de pila de combustible de hidrógeno",
+      "category": 4,
+      "symbolSize": 20
+    },
+    {
+      "name": "Motocicletas de hidrógeno centradas en la investigación",
+      "category": 4,
+      "symbolSize": 20
+    },
+    {
+      "name": "Motocicletas impulsadas por hidrógeno",
+      "category": 4,
+      "symbolSize": 20
+    },
+    {
+      "name": "Movilidad y transporte ecológico y sostenible",
+      "category": 5,
+      "symbolSize": 30
+    },
+    {
+      "name": "Soluciones sostenibles para ciudades inteligentes",
+      "category": 5,
+      "symbolSize": 20
+    },
+    {
+      "name": "Empresas de IA predictiva sostenible",
+      "category": 5,
+      "symbolSize": 20
+    },
+    {
+      "name": "Resiliencia y gestión de riesgos en transporte y cadenas de suministro globales",
+      "category": 6,
+      "symbolSize": 30
+    },
+    {
+      "name": "Soluciones de suministro basadas en blockchain",
+      "category": 6,
+      "symbolSize": 20
+    },
+    {
+      "name": "Supply chains are out",
+      "category": 7,
+      "symbolSize": 30
+    },
+    {
+      "name": "Omnicanalidad",
+      "category": 8,
+      "symbolSize": 30
+    },
+    {
+      "name": "Sitios de prueba de conducción virtual",
+      "category": 8,
+      "symbolSize": 20
+    },
+    {
+      "name": "Mercados de transporte descentralizados",
+      "category": 8,
+      "symbolSize": 20
+    },
+    {
+      "name": "Aplicaciones de entrega de autos usados",
+      "category": 8,
+      "symbolSize": 20
+    },
+    {
+      "name": "Experiencias avanzadas de compra virtual",
+      "category": 8,
+      "symbolSize": 20
+    },
+    {
+      "name": "Sitios de compra de autos en línea",
+      "category": 8,
+      "symbolSize": 20
+    },
+    {
+      "name": "Aplicaciones de servicio de vehículos digitalizadas",
+      "category": 8,
+      "symbolSize": 20
+    }
+  ],
+  "links": [
+    {
+      "source": "Smart supply chain",
+      "target": "Cold chain is hot"
+    },
+    {
+      "source": "Smart supply chain",
+      "target": "Cadenas de suministro eficientes para fabricantes de automóviles"
+    },
+    {
+      "source": "Regionalización/nearshoring",
+      "target": "Vehículos impulsados por la comunidad"
+    },
+    {
+      "source": "Re-skilling/reentrenamiento permanente",
+      "target": "Boutique metaversas automotrices"
+    },
+    {
+      "source": "Evolución hacia transporte combinado",
+      "target": "Bicicletas eléctricas impulsadas por hidrógeno"
+    },
+    {
+      "source": "Evolución hacia transporte combinado",
+      "target": "Bicicletas de pila de combustible de hidrógeno"
+    },
+    {
+      "source": "Evolución hacia transporte combinado",
+      "target": "Motocicletas de hidrógeno centradas en la investigación"
+    },
+    {
+      "source": "Evolución hacia transporte combinado",
+      "target": "Motocicletas impulsadas por hidrógeno"
+    },
+    {
+      "source": "Movilidad y transporte ecológico y sostenible",
+      "target": "Soluciones sostenibles para ciudades inteligentes"
+    },
+    {
+      "source": "Movilidad y transporte ecológico y sostenible",
+      "target": "Empresas de IA predictiva sostenible"
+    },
+    {
+      "source": "Resiliencia y gestión de riesgos en transporte y cadenas de suministro globales",
+      "target": "Soluciones de suministro basadas en blockchain"
+    },
+    {
+      "source": "Omnicanalidad",
+      "target": "Sitios de prueba de conducción virtual"
+    },
+    {
+      "source": "Omnicanalidad",
+      "target": "Mercados de transporte descentralizados"
+    },
+    {
+      "source": "Omnicanalidad",
+      "target": "Aplicaciones de entrega de autos usados"
+    },
+    {
+      "source": "Omnicanalidad",
+      "target": "Experiencias avanzadas de compra virtual"
+    },
+    {
+      "source": "Omnicanalidad",
+      "target": "Sitios de compra de autos en línea"
+    },
+    {
+      "source": "Omnicanalidad",
+      "target": "Aplicaciones de servicio de vehículos digitalizadas"
+    },
+    {
+      "source": "Movilidad",
+      "target": "Smart supply chain"
+    },
+    {
+      "source": "Movilidad",
+      "target": "Regionalización/nearshoring"
+    },
+    {
+      "source": "Movilidad",
+      "target": "Re-skilling/reentrenamiento permanente"
+    },
+    {
+      "source": "Movilidad",
+      "target": "Evolución hacia transporte combinado"
+    },
+    {
+      "source": "Movilidad",
+      "target": "Movilidad y transporte ecológico y sostenible"
+    },
+    {
+      "source": "Movilidad",
+      "target": "Resiliencia y gestión de riesgos en transporte y cadenas de suministro globales"
+    },
+    {
+      "source": "Movilidad",
+      "target": "Supply chains are out"
+    },
+    {
+      "source": "Movilidad",
+      "target": "Omnicanalidad"
+    }
+  ],
+  "categories": [
+    {
+      "name": "Movilidad"
+    },
+    {
+      "name": "Smart supply chain"
+    },
+    {
+      "name": "Regionalización/nearshoring"
+    },
+    {
+      "name": "Re-skilling/reentrenamiento permanente"
+    },
+    {
+      "name": "Evolución hacia transporte combinado"
+    },
+    {
+      "name": "Movilidad y transporte ecológico y sostenible"
+    },
+    {
+      "name": "Resiliencia y gestión de riesgos en transporte y cadenas de suministro globales"
+    },
+    {
+      "name": "Supply chains are out"
+    },
+    {
+      "name": "Omnicanalidad"
+    }
+  ]
+}
